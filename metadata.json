@@ -1,0 +1,7 @@
+{
+  "name": "OCR-Translate Pro",
+  "description": "A high-performance web application for PDF/Image OCR and translation to Portuguese, preserving original layout and programming keywords.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
